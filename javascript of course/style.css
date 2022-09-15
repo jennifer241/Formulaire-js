@@ -1,0 +1,68 @@
+.input-group{
+ width: 450px;
+ position: relative;
+ left: 45px;
+ top: 50px;
+ 
+}
+.form{
+    width: 40%;
+    height: 400px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    position: relative;
+    left:80px;
+    top: 50px;
+}
+.button{
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    right: -210px;
+    top: 50px;
+  
+}
+.table{
+    width:935px;
+    height: 400px;
+    background-color:gainsboro;
+    position: absolute;
+    left:568px;
+    top:95px;
+    border-radius: 10px;
+}
+
+.formulaire{
+    position: relative;
+    top: 150px;
+    height: 390px;
+    border-radius: 15px;
+
+}
+
+#form1{
+    background-color:whitesmoke;
+    height: 360px;
+    width: 550px;
+    border-radius: 15px;
+    position: absolute;
+    top: 95px;
+    left: 2px;
+}
+
+.none{
+    display: none;
+
+}
+.visible{
+    display: block;
+}
+.button1{
+    position: relative;
+    top: 50px;
+    left: 210px;
+    width: 100px;
+    border-radius: 15px;
+}
+
